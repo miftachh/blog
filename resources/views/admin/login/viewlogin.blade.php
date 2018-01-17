@@ -44,7 +44,7 @@
 
               <div class="separator">
                 <div>
-                  <p style="color:#fff;">©2017 bladephp.co</p>
+                  <p style="color:#fff;">©2017 miftach</p>
                 </div>
               </div>
             </form>
