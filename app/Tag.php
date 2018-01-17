@@ -3,7 +3,6 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-
 class Tag extends Model
 {
     Protected $table = "tbl_tag";
