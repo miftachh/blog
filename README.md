@@ -26,7 +26,7 @@ Laravel-Blog is a blog project written in Laravel 5.2.45
     cd blog
     composer install
     composer update 
-    
+
 ### 2. Setting env
 	
     create and configure env with your local blog project
@@ -38,6 +38,7 @@ Laravel-Blog is a blog project written in Laravel 5.2.45
 
 ### 4. Info
 
+* Admin Page: blog/account/login
 * Admin Account: ['username' => 'admin@blog.com', 'password' => '123456']
 
 
