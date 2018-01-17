@@ -21,16 +21,12 @@ Laravel-Blog is a blog project written in Laravel 5.2.45
 
     git clone https://github.com/miftach/blog
 
-### 2. Composer install
+### 2. Composer install and update
 
     cd blog
     composer install
+    composer update 
     
-### 2. Composer install
-
-    cd blog
-    composer update
-
 ### 2. Setting env
 	
     create and configure env with your local blog project
